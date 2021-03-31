@@ -1,10 +1,10 @@
 {
   "title": "Nuxt Content",
-  "url": "https://docs.com",
+  "url": "https://benvale.github.io/docs-dev/",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "nuxt/content",
+  "github": "benvale/docs-dev",
   "twitter": "@nuxt_js"
 }
